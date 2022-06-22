@@ -8,7 +8,7 @@ Este é um projeto de Quiz de perguntas.
 
 ## Explicando
 
-Este é um projeto densenvolvido em Reactjs, para fazer gestão de atividades a serem feitas no dia a dia.
+
 
 [![img](https://raw.githubusercontent.com/matheusvinute/app-quiz/main/img-quiz.png)](#)
 
